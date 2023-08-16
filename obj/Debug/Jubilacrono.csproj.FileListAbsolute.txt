@@ -1,0 +1,10 @@
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\bin\Debug\Jubilacrono.exe.config
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\bin\Debug\Jubilacrono.exe
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\bin\Debug\Jubilacrono.pdb
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\obj\Debug\Jubilacrono.csproj.AssemblyReference.cache
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\obj\Debug\Jubilacrono.Form1.resources
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\obj\Debug\Jubilacrono.Properties.Resources.resources
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\obj\Debug\Jubilacrono.csproj.GenerateResource.cache
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\obj\Debug\Jubilacrono.csproj.CoreCompileInputs.cache
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\obj\Debug\Jubilacrono.exe
+C:\Users\UsrLockMgr\source\repos\Jubilacrono\obj\Debug\Jubilacrono.pdb
